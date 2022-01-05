@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitriy Grushin (College Senior in NYC) 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working on my personal project called BattlLive. A rap battle web applicate like chess.com but for rappers to compete on.
+- 🌱 I’m currently working on my personal project called BattlLive. A rap battle website like chess.com but for rappers to compete on.
 - 📫 How to reach me: dmitriy_grushin@yahoo.com
 
 <!---
